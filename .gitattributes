@@ -1,0 +1,6 @@
+*.wasm binary
+*.data binary
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.wasm application/wasm
